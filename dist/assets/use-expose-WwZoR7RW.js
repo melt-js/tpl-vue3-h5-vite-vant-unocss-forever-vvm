@@ -1,0 +1,1 @@
+import{v as e}from"./runtime-core.esm-bundler-BWSwPNic.js";import{H as t}from"./base-BDc-fxPP.js";function n(n){let r=e();r&&t(r.proxy,n)}export{n as t};

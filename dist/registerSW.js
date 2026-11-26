@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://melt-js.github.io/tpl-vue3-h5-vite-vant-unocss-forever-vvm/dist/sw.js', { scope: 'https://melt-js.github.io/tpl-vue3-h5-vite-vant-unocss-forever-vvm/dist/' })})}

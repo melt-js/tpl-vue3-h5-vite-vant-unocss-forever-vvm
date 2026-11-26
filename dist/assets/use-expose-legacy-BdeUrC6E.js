@@ -1,0 +1,1 @@
+(function(){System.register([`./runtime-core.esm-bundler-legacy-mj6gTZS6.js`,`./base-legacy-DsMxBBjw.js`],function(e,t){var n,r;function i(e){let t=n();t&&r(t.proxy,e)}return e(`t`,i),{setters:[function(e){n=e.v},function(e){r=e.H}],execute:function(){}}})})();

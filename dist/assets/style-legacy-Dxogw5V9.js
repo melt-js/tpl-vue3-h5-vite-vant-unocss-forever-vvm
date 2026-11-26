@@ -1,0 +1,1 @@
+(function(){System.register([`./base-legacy-DsMxBBjw.js`,`./index-legacy-EK4kzv4L.js`],function(e,t){return{setters:[function(e){},function(e){}],execute:function(){}}})})();

@@ -1,0 +1,1 @@
+(function(){System.register([`./runtime-core.esm-bundler-legacy-mj6gTZS6.js`],function(e,t){var n,r;function i(){let e=n(),{name:t=`unknown`}=(e==null?void 0:e.type)||{};return`${t}-${++r}`}return e(`t`,i),{setters:[function(e){n=e.v}],execute:function(){r=0}}})})();
